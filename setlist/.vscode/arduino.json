@@ -1,0 +1,7 @@
+{
+    "configuration": "Revision=TWATCH_BASE,PSRAM=enabled,PartitionScheme=default,UploadSpeed=2000000,DebugLevel=none",
+    "board": "esp32:esp32:twatch",
+    "output": "../../build/temora-watch",
+    "port": "/dev/tty.usbserial-54790186621",
+    "sketch": "temora-watch.ino"
+}
